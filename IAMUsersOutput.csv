@@ -1,0 +1,4 @@
+Access-Key-ID,Secret-Access-Key,UserName,Password,Policy-ARN
+AKIAWXPNV524D2LI4D2H,cbcqN1Di/Pu9Oc2lp1znhdyZJWuTqcwZwYgzMblh,Naddy,A1f4sOoE2C,arn:aws:iam::aws:policy/AdministratorAccess
+AKIAWXPNV524C2WG3WV2,io65U3mppsdlJ6ZTDfr5HNlo7HhW7obsgrtBw4oW,Prasad,B^uhs)hycH,arn:aws:iam::aws:policy/AdministratorAccess
+,,SuperUser,IlE(C^MZ0^,arn:aws:iam::aws:policy/AmazonAPIGatewayInvokeFullAccess

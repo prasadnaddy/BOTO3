@@ -1,0 +1,4 @@
+﻿IAM_User_Name,Programatic_Access,Console_Access,PolicyARN
+Prasad,Yes,No,arn:aws:iam::aws:policy/AdministratorAccess
+Naddy,Yes,Yes,arn:aws:iam::aws:policy/AdministratorAccess
+SuperUser,No,Yes,arn:aws:iam::aws:policy/AmazonAPIGatewayInvokeFullAccess
