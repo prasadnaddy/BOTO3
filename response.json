@@ -1,0 +1,14 @@
+[{
+    "Path": "/",
+    "UserName": "Practise",
+    "UserId": "AIDAWXPNV524CYEG5XFGP",
+    "Arn": "arn:aws:iam::462744317624:user/Practise",
+    "CreateDate": datetime.datetime(2020, 5, 10, 9, 13, 6, tzinfo = tzutc())
+}, {
+    "Path": "/",
+    "UserName": "User1",
+    "UserId": "AIDAWXPNV524FNKSN45VO",
+    "Arn": "arn:aws:iam::462744317624:user/User1",
+    "CreateDate": datetime.datetime(2019, 8, 24, 7, 51, 4, tzinfo = tzutc())
+}]
+
